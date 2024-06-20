@@ -1,6 +1,6 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akhack1231)](https://solved.ac/akhack1231/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKL1231)](https://github.com/DKL1231/github-readme-stats)
-[![DKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKL1231)](https://github.com/DKL1231/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akhack1231)](https://solved.ac/akhack1231/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKL1231)](https://github.com/DKL1231/github-readme-stats)<br/>
+[![DKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKL1231)](https://github.com/DKL1231/github-readme-stats)<br/>
 
 <!--
 **DKL1231/DKL1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
