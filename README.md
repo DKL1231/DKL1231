@@ -1,6 +1,6 @@
 <div align="center">
 
-### Tech
+### 💻Tech
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKL1231)](https://github.com/DKL1231/github-readme-stats)<br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,12 +15,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-
-### PS
+***
+### 💡PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akhack1231)](https://solved.ac/akhack1231/)<br/>
 
-
-### Contact
+***
+### ✉Contact
 <a href="mailto:akhack1231@skuniv.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
